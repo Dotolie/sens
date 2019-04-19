@@ -1,0 +1,1 @@
+# FTDI2xxx image capture application
